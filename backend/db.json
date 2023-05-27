@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "auroria": "Arthur",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Hoje tem vôlei!",
+      "auroria": "Bia",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Pudim de leite é uma boa sobremesa para um dia tranquilo",
+      "auroria": "Jade",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "teste",
+      "modelo": "modelo2",
+      "id": 4
+    }
+  ]
+}
